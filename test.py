@@ -65,6 +65,21 @@ class TestConnect4(unittest.TestCase):
                 b1.insert_chip(i,1)
         self.assertEqual(b1.tie_by_full_board(),True)      
 
-
+    def test_join_player(self):
+        pass
+    
+    def insert_chip(self,c,p):
+        pass
+    def turn(self):
+        pass
+    def get_result(self,p):
+        pass
+    def add_move(self,m):
+        pass
+    def make_move(self):
+        pass
+    def set_result(self):
+        pass
+    
 if __name__ == '__main__':
     unittest.main()                           

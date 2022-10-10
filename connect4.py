@@ -94,9 +94,11 @@ class Player:
 b1=Board()
 p1=Player()
 p2=Player()
+
 b1.join_player(p1)
 b1.join_player(p2)
 
-#b1.turn()
+
+b1.turn()
 
 
