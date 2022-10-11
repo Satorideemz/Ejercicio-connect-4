@@ -99,6 +99,6 @@ b1.join_player(p1)
 b1.join_player(p2)
 
 
-b1.turn()
+#b1.turn()
 
 
