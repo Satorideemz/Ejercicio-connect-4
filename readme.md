@@ -1,0 +1,3 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Satorideemz/Ejercicio-connect-4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Satorideemz/Ejercicio-connect-4/tree/main)
+[![Maintainability](https://api.codeclimate.com/v1/badges/2d8f790489e8562ae25e/maintainability)](https://codeclimate.com/github/Satorideemz/Ejercicio-connect-4/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/2d8f790489e8562ae25e/test_coverage)](https://codeclimate.com/github/Satorideemz/Ejercicio-connect-4/test_coverage)
